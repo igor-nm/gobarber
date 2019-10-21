@@ -1,5 +1,5 @@
 # Gobarber - API
-Gobaber-api is a RocketSeat’s back-end project that I need to do a full api, with database communication and many routes with treat. Alsso using middlewares, docker, postgres, debug on vscode and other things.
+Gobaber-api is a RocketSeat’s back-end project that I need to do a full api, with database communication and many routes with treat. Also using middlewares, docker, postgres, debug on vscode and other things.
 It is being used as a study project to improve my skils.
 
 <!-- ### Features:
