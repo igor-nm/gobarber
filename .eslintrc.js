@@ -8,9 +8,9 @@ module.exports = {
         "quotes": "off",
         "camelcase": "off",
         "indent": ["error", 4],
-        "no-param-reassing": "off",
+        "no-param-reassign": "off",
         "prettier/prettier": "error",
-        "class-methods-user-this": "off",
+        "class-methods-use-this": "off",
         "no-unused-vars": ["error", { "argsIgnorePattern": "next" }]
     },
 };
